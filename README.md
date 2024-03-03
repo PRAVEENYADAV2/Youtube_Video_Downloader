@@ -20,3 +20,23 @@ Before starting, ensure that you have the following prerequisites installed on y
 ```bash
 git clone <repository-url>
 ```
+
+Then, run npm install for backend dependencies
+```bash
+npm install
+```
+Now, you can start the Backend server
+```bash
+nodemon ./app.js
+```
+
+For running Frontend create new terminal or split the terminal
+```bash
+cd backend
+```
+
+```bash
+npm start
+```
+Now you are good to go 🙂🎉.
+Happy Coding.
