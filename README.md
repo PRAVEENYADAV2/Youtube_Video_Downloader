@@ -27,6 +27,7 @@ npm install
 ```
 Now, you can start the Backend server
 ```bash
+cd backend
 nodemon ./app.js
 ```
 
