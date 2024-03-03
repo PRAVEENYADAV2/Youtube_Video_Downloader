@@ -32,7 +32,7 @@ nodemon ./app.js
 
 For running Frontend create new terminal or split the terminal
 ```bash
-cd backend
+cd frontend
 ```
 
 ```bash
