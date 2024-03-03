@@ -7,21 +7,18 @@ Welcome to the documentation for the Youtube_Video_Downloader project. This docu
 
 # Set Up
 
-  project-root/
-  │
-  ├── frontend/
-  │   ├── public/
-  │   ├── src/
-  │   ├── package.json
-  │   └── ...
-  │
-  ├── backend/
-  │   ├── routes/
-  │   ├── app.js
-  │   └── package.json
-  │
-  ├── package.json
-  └── ...
+project-root/
+│
+├── frontend/
+│   ├── public/
+│   ├── src/
+│   ├── package.json
+│   └── ...
+│
+└── backend/
+    ├── routes/
+    ├── app.js
+    └── package.json
 # Prerequisites
 
 Before starting, ensure that you have the following prerequisites installed on your system:
