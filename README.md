@@ -26,7 +26,7 @@ project-root/
 Before starting, ensure that you have the following prerequisites installed on your system:
 
 1. Node.js (version X.X.X or higher)
-2.npm (Node Package Manager, usually comes with Node.js installation)
+2. Npm (Node Package Manager, usually comes with Node.js installation)
 3. Git
 
 
