@@ -1,0 +1,19 @@
+.flex{
+  display: flex;
+}
+
+.flex-col{
+  flex-direction: column;
+}
+
+.justify-end{
+  align-items: end;
+}
+.m-5{
+  margin-top: 15px;
+
+}
+
+.w-fit{
+  width: fit-content;
+}
